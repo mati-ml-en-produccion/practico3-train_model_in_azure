@@ -23,6 +23,8 @@ Nos va a permitir trabajar con maquinas que ya tienen instalado Tensorflow / PyT
 
 Nos permite escalado de las instancias si tenemos que manejar grandes volumenenes de datos vCPU 
 
+### Features 
+
 Algunos de los features que tiene:
 
 - Notebook
