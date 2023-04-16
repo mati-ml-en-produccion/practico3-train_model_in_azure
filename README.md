@@ -13,7 +13,7 @@ Ofrece herramientas para la preparación de datos, el entrenamiento de modelos y
 
 No vamos a tener que usar dataset en locales ya que todo lo podemos manejar desde la nube de Azure
 
-Podemos hostearlas dentro de una VPC (Virtual Privacy 
+Podemos hostearlas dentro de una VPC (Virtual Privacy Cloud)
 
 ### Manejo de framework y dependencias.
 
