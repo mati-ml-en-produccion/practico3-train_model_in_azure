@@ -1,3 +1,14 @@
+
+# Práctico 3
+
+### Azure Machine Learning 
+
+- Notebooks
+- Visualización de datos: pandas + matplotlib
+- Preprocessing (resizing, normalization, etc.)
+- Data augmentation
+- Entrenar un modelo simple. 
+
 # Azure Machine Learning: 
 ###### https://azure.microsoft.com/es-es/products/machine-learning
 
